@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration 2.0//EN"
+       "http://tiles.apache.org/dtds/tiles-config_2_0.dtd">
+<tiles-definitions>
+    
+    <definition name="mytemplate" template="/WEB-INF/jsp/templates/myTemplates.jsp">
+    	<put-attribute name="content" value=""></put-attribute>
+    </definition>
+    
+    <definition name="home.index" extends="mytemplate">
+    	<put-attribute name="content" value="/WEB-INF/jsp/home/index.jsp"></put-attribute>
+    </definition>
+    
+     <definition name="aboutus.index" extends="mytemplate">
+    	<put-attribute name="content" value="/WEB-INF/jsp/aboutus/index.jsp"></put-attribute>
+    </definition>
+    
+    
+     <definition name="news.index" extends="mytemplate">
+    	<put-attribute name="content" value="/WEB-INF/jsp/news/index.jsp"></put-attribute>
+    </definition>
+    <definition name="product.index" extends="mytemplate">
+    	<put-attribute name="content" value="/WEB-INF/jsp/product/index.jsp"></put-attribute>
+    </definition>
+     <definition name="special.index" extends="mytemplate">
+    	<put-attribute name="content" value="/WEB-INF/jsp/special/index.jsp"></put-attribute>
+    </definition>
+     <definition name="price.index" extends="mytemplate">
+    	<put-attribute name="content" value="/WEB-INF/jsp/price/index.jsp"></put-attribute>
+    </definition>
+     <definition name="contact.index" extends="mytemplate">
+    	<put-attribute name="content" value="/WEB-INF/jsp/contact/index.jsp"></put-attribute>
+    </definition>
+    
+</tiles-definitions>

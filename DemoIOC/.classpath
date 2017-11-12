@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/SEM4/Java/Libraries Java/Spring Framework/core4/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/SEM4/Java/Libraries Java/Spring Framework/core4/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/SEM4/Java/Libraries Java/Spring Framework/core4/aspectjrt-1.8.9.jar"/>
+	<classpathentry kind="lib" path="D:/SEM4/Java/Libraries Java/Spring Framework/core4/aspectjweaver-1.8.9.jar"/>
+	<classpathentry kind="lib" path="D:/SEM4/Java/Libraries Java/Spring Framework/core4/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/SEM4/Java/Libraries Java/Spring Framework/core4/com.springsource.org.apache.log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="D:/SEM4/Java/Libraries Java/Spring Framework/core4/commons-dbcp2-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/SEM4/Java/Libraries Java/Spring Framework/core4/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/SEM4/Java/Libraries Java/Spring Framework/core4/commons-pool2-2.4.2.jar"/>
+	<classpathentry kind="lib" path="D:/SEM4/Java/Libraries Java/Spring Framework/core4/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/SEM4/Java/Libraries Java/Spring Framework/core4/hibernate-commons-annotations-4.0.2.Final.jar"/>
+	<classpathentry kind="lib" path="D:/SEM4/Java/Libraries Java/Spring Framework/core4/hibernate-core-4.2.5.Final.jar"/>
+	<classpathentry kind="lib" path="D:/SEM4/Java/Libraries Java/Spring Framework/core4/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/SEM4/Java/Libraries Java/Spring Framework/core4/javassist-3.15.0-GA.jar"/>
+	<classpathentry kind="lib" path="D:/SEM4/Java/Libraries Java/Spring Framework/core4/jboss-logging-3.1.0.GA.jar"/>
+	<classpathentry kind="lib" path="D:/SEM4/Java/Libraries Java/Spring Framework/core4/jboss-transaction-api_1.1_spec-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/SEM4/Java/Libraries Java/Spring Framework/core4/jmxtools-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/SEM4/Java/Libraries Java/Spring Framework/core4/mysql-connector-java-5.1.36.jar"/>
+	<classpathentry kind="lib" path="D:/SEM4/Java/Libraries Java/Spring Framework/core4/spring-aop-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SEM4/Java/Libraries Java/Spring Framework/core4/spring-aspects-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SEM4/Java/Libraries Java/Spring Framework/core4/spring-beans-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SEM4/Java/Libraries Java/Spring Framework/core4/spring-context-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SEM4/Java/Libraries Java/Spring Framework/core4/spring-core-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SEM4/Java/Libraries Java/Spring Framework/core4/spring-expression-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SEM4/Java/Libraries Java/Spring Framework/core4/spring-jdbc-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SEM4/Java/Libraries Java/Spring Framework/core4/spring-jms-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SEM4/Java/Libraries Java/Spring Framework/core4/spring-jmx-2.0.8.jar"/>
+	<classpathentry kind="lib" path="D:/SEM4/Java/Libraries Java/Spring Framework/core4/spring-orm-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SEM4/Java/Libraries Java/Spring Framework/core4/spring-oxm-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SEM4/Java/Libraries Java/Spring Framework/core4/spring-tx-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
